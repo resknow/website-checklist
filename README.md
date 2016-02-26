@@ -4,6 +4,7 @@ The below checklists are to help ensure that everything that's needed when putti
 
 ### Before starting
 - Log outstanding content
+- Setup GIT repository
 
 ### Proof read
 - Check that landing page content includes keywords and areas
@@ -22,6 +23,8 @@ The below checklists are to help ensure that everything that's needed when putti
 
 ### SEO checklist
 - Relevant page titles (e.g. Building Services in Eltham | My Building Co.)
+- Include the target keyword/search phrase in the page URL if possible.
+- Create relevant links to other pages in the site within the content.
 - Meta page descriptions and keywords
 - Describe images with ALT tags
 - Add Linking Data with business details
@@ -41,5 +44,5 @@ The below checklists are to help ensure that everything that's needed when putti
 - Test site on Google PageSpeed Insights
 
 ### After completion
-- Setup GIT repository
+- Complete the final checks sheet
 - Close off project on CRM
