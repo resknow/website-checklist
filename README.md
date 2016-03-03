@@ -5,6 +5,7 @@ The below checklists are to help ensure that everything that's needed when a sit
 ### Before starting
 - Log outstanding content
 - Setup GIT repository
+- Setup hosting account
 
 ### Proof read
 - Check that landing page content includes keywords and areas
