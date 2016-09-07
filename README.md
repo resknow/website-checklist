@@ -28,14 +28,14 @@ The below checklists are to help ensure that everything that's needed when a sit
 - Set a reminder to follow up if you receive no reply within a few days
 
 ### SEO checklist
-- Relevant page titles (e.g. Building Services in Eltham | My Building Co.)
+- Relevant page titles (e.g. Building Services in Eltham | My Building Co. | Or for alternative pages, instead of 'About Us', make it conversational but relevant)
 - Include the target keyword/search phrase in the page URL if possible.
 - Create relevant links to other pages in the site within the content.
-- Meta page descriptions and keywords
-- Describe images with ALT tags
+- Meta page descriptions and keywords (Most relevant keywords only. I.e. 'Italian Restaurant', not 'Spaghetti Restaurant')
+- Describe images with ALT tags (Include business name in Alt Tags)
 - Add Linking Data with business details
 - Wrap contact information with [Schema](https://schema.org/docs/gs.html) markup
-- Ensure titles are marked up with appropriate H tags
+- Ensure titles are marked up with appropriate H tags (Only 1 H1 tag per page, must include city)
 - Generate XML Sitemap
 - Setup 301 redirections for old URLs (e.g. /services.php => /services)
 - Embed Google map
@@ -48,6 +48,7 @@ The below checklists are to help ensure that everything that's needed when a sit
 - Create image size variations for smaller screens where possible
 - Optimise and compress images and media
 - Test site on Google PageSpeed Insights
+- Make sure to hide any video backgrounds on mobile devices (autoplay doesn't work on mobile)
 
 ### After completion
 - Complete the final checks sheet
