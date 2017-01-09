@@ -3,6 +3,7 @@
 The below checklists are to help ensure that everything that's needed when a site is completed. Use it, print it, change it, whatever you need to do. If you have any suggestions, always feel free to add an issue or submit a PR.
 
 ### Before starting
+- Check balance has been paid
 - Log outstanding content
 - Setup GIT repository
 - Setup hosting account
@@ -53,3 +54,4 @@ The below checklists are to help ensure that everything that's needed when a sit
 ### After completion
 - Complete the final checks sheet
 - Close off project on CRM
+- Let PPC Manager know when site has gone live
